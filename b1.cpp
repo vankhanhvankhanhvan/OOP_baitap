@@ -50,4 +50,5 @@ int main(){
 	for(int i=0;i<n;i++){
 		*(p+i)=rand()%99+1;
 		}*/
-	
+		
+	//Hello
